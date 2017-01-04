@@ -1,6 +1,6 @@
 month,race_number,race,racer,place_overall,place_gender,total_overall,total_gender,location,Results 1,Results 2
-January,1,2016 Winter Pickle Run Road and Trail Series No 1 ,Claire,bad data,,,,"Ridley Creek State Park, PA",https://www.runtheday.com/archives/results_013016_094320.pdf,https://www.runtheday.com/registration/results/34848/0
-January,1,2016 Winter Pickle Run Road and Trail Series No 1 ,Jay,bad data,,,,"Ridley Creek State Park, PA",https://www.runtheday.com/archives/results_013016_094320.pdf,https://www.runtheday.com/registration/results/34848/0
+January,1,2016 Winter Pickle Run Road and Trail Series No 1 ,Claire,,,,,"Ridley Creek State Park, PA",https://www.runtheday.com/archives/results_013016_094320.pdf,https://www.runtheday.com/registration/results/34848/0
+January,1,2016 Winter Pickle Run Road and Trail Series No 1 ,Jay,,,,,"Ridley Creek State Park, PA",https://www.runtheday.com/archives/results_013016_094320.pdf,https://www.runtheday.com/registration/results/34848/0
 February,2,Cupid’s Chase,Claire,10,1,49,25,Cooper River Park,https://tomahawktiming.com/213-cupid-chase-5k-cooper-river/,
 February,2,Cupid’s Chase,Jay,31,17,49,23,Cooper River Park,https://tomahawktiming.com/213-cupid-chase-5k-cooper-river/,
 March,3,Back on my Feet Five Miler,Claire,452,169,1579,959,Philadelphia,https://linmarksports.com/old/index.php?option=com_jwdintermediate&view=students&layout=result&eid=213&Itemid=518,
@@ -12,8 +12,8 @@ May,5,Blue Cross Broad Street Run,Jay,29509,14142,34446,15514,Philadelphia,http:
 June,6,Team Kidney 5K,Claire,15,2,66,33,Cooper River Park,https://runsignup.com/race/results/?raceId=29972#resultSetId-39489,
 June,6,Team Kidney 5K,Jay,53,29,66,33,Cooper River Park,https://runsignup.com/race/results/?raceId=29972#resultSetId-39489,
 June,7,ODDyssey Half Marathon,Claire,912,401,1999,1111,Philadelphia,http://georesults.racemine.com/Mid-Atlantic-Timing/events/2016/ODDyssey-Half-Marathon-2016/results,
-July,8,RUN 4U Run/Walk 5K,Claire,,,,,Cooper River Park,can’t find,
-July,8,RUN 4U Run/Walk 5K,Jay,,,,,Cooper River Park,can’t find,
+July,8,RUN 4U Run/Walk 5K,Claire,35,8,125,76,Cooper River Park,http://www.sjtiming.com/Run4U16.html,
+July,8,RUN 4U Run/Walk 5K,Jay,79,43,125,49,Cooper River Park,http://www.sjtiming.com/Run4U16.html,
 August,9,Half Full Race,Claire,62,26,123,78,Philadelphia,,
 August,9,Half Full Race,Jay,55,18,79,25,Philadelphia,,
 September,10,Flying Fish 5K,Claire,367,104,1115,561,Somerdale,http://georesults.racemine.com/Mid-Atlantic-Timing/events/2016/Flying-Fish-5K/results,
@@ -23,5 +23,5 @@ October,11,Run for Robbie at the Philadelphia Zoo,Jay,66,19,78,24,Philadelphia Z
 November,12,2016 Cooper Norcross Run the Bridge,Claire,847,348,2652,1584,Camden,https://runsignup.com/race/results/?raceId=1326#resultSetId-50478,
 November,12,2016 Cooper Norcross Run the Bridge,Jay,2393,1008,2652,1067,Camden,https://runsignup.com/race/results/?raceId=1326#resultSetId-50478,
 November,13,Rocky Run – 10 Mile,Claire,751,291,2797,1536,Philadelphia,http://results.active.com/events/rocky-balboa-run--3/,
-December,14,,,,,,,,,
-December,14,,,,,,,,,
+December,14,Blue Ridge New Years 5k,Jay,129,64,174,76,Blue Ridge,http://www.terraoutfitters.com/resultsblue-ridge-new-years-5k,
+December,14,Blue Ridge New Years 5k,Claire,25,8,174,98,Blue Ridge,http://www.terraoutfitters.com/resultsblue-ridge-new-years-5k,
